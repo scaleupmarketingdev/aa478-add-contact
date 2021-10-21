@@ -4,7 +4,7 @@
 </p>
 
 <h3>For more info about the infusionsoft syntax Click <a href="https://developer.infusionsoft.com/docs/xml-rpc/#contact">here</a></h3>
-<h4>Current URL: https://scaleupmarketing.asia/httpscripts/aa478/note/removetags.php</h4>
+<h4>Current URL: https://scaleupmarketing.asia/httpscripts/aa478/note/add_contact.php</h4>
 <p>Script Description: 
 When HTTP POST REQUEST is triggered through the asiaconference website<br>
 carrying the variables newcontactname,newcontactemail,newcontactjob,company,tagID,SearchTag,eventabbrevation & eventname.<br>
